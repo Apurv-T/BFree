@@ -1,2 +1,2 @@
-# Bfree
-BTracker is an issue and project tracker.
+# BFree
+BFree is an issue and project tracker.
